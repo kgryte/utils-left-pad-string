@@ -1,6 +1,6 @@
 {
   "name": "utils-left-pad-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Left pad a string.",
   "author": {
     "name": "Athan Reines",
