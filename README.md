@@ -41,7 +41,7 @@ str = lpad( 'boop', 12, 'beep' );
 
 ## Notes
 
-* An output `string` is __not__ guaranteed to have a length of __exactly__ `len`, but __only__ to have a `length` of __at least__ `len`. To generate a padded `string` having a `length` equal to `len`
+* An output `string` is __not__ guaranteed to have a length of __exactly__ `len`, but to have a `length` of __at least__ `len`. To generate a padded `string` having a `length` equal to `len`
 
 	``` javascript
 	var str = lpad( 'boop', 10, 'beep' );
