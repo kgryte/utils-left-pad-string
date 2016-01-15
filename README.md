@@ -104,7 +104,7 @@ Options:
 ### Examples
 
 ``` bash
-$ lpad beep -len 10 --pad b
+$ lpad beep --len 10 --pad b
 # => bbbbbbbeep
 ```
 
