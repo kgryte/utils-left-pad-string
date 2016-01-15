@@ -25,7 +25,7 @@ Left pads a `string` such that the padded `string` has a `length` of __at least_
 
 ``` javascript
 var str = lpad( 'a', 5 );
-// returns '     a'
+// returns '    a'
 ```
 
 By default, an input `string` is padded with `spaces`. To pad with a different character or sequence of characters, provide a `pad` string.
